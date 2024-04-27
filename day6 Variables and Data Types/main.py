@@ -24,3 +24,5 @@ print(list1)
 tuple1=({"parrot"},{"ram","shyam"})
 print(tuple1)
 #dictionary 
+dict1={"name":"rijan","age":20 , "canvote":True}
+print(dict1)
