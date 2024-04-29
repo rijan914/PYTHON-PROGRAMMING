@@ -1,4 +1,4 @@
-# Pythonic Path: My Adventure in Learning Python
+# My Adventure in Learning Python (Pythonic Path) 
 
 Welcome to my GitHub repository, where I document my journey of learning Python!
 
