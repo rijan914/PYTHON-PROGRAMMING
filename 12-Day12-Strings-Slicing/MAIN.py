@@ -17,3 +17,6 @@ print(fruit[-3:-1])
 nm="Harry"
 print(nm[-4:-2])
 #i guess output is ar 
+
+rijan="Rijan"
+print(rijan[0:5:2])
