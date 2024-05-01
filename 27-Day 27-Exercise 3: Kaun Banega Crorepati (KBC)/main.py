@@ -66,8 +66,8 @@ for i in range(10):
     print(options[i])
     uanswers[i]=input()
     if(uanswers[i]==answers[i] or uanswers[i]==tick[i]):
-        os.system('clear')
         print("correct")
+        os.system('clear')
         right=right+1
     else:
         print("incorrect")
