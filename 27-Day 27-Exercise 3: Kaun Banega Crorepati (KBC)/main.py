@@ -49,7 +49,7 @@ options[9]="a.Beijing","b.Tokyo","c.Washington D.C","d.Canberra"
 
 tick=[0,1,2,3,4,5,6,7,8,9]
 tick[0]="d" or "D"
-tick[1]="b" or "B"
+tick[1]="a" or "a"
 tick[2]="c" or "C"
 tick[3]="b" or "B"
 tick[4]="a" or "A"
