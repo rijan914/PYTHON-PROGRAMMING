@@ -71,29 +71,41 @@ for i in range(10):
         right=right+1
     else:
         print("incorrect")
-
         break
     
 if right == 0:
+    print("congratulation")
     print("you won 0 rupees")
 elif right == 1:
+    print("congratulation")
     print("you won 1 housands rupees")
 elif right == 2:
+    print("congratulation")
     print("you won 10 thousands rupees")
 elif right == 3:
+    print("congratulation")
     print("you won 25 thousands rupees")
 elif right == 4:
+    print("congratulation")
     print("you won 50 thousands rupees")
 elif right == 5:
+    print("congratulation")
     print("you won 1 lakh rupees")
 elif right == 6:
+    print("congratulation")
     print("you won 2 lakh rupees")
 elif right == 7:
+    print("congratulation")
     print("you won 40000 rupees")
 elif right == 8:
+    print("congratulation")
     print("you won 25 lakh rupees")
 elif right == 9:
+    print("congratulation")
     print("you won 50 lakh rupees")
 elif right == 10:
+    print("Cheers to our Champion!!! ")
+    print("congratulations")
     print("you won 1 karod rupees")
+    
 
