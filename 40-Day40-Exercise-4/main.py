@@ -6,7 +6,7 @@
 # if the word contains atleast 3 characters, remove the first letter and append it at the end 
 # now append three random characters at the starting and the end of the word
 # else:
-#     simply reverse the string 
+# simply reverse the string 
 
 #eg: harry min+arry+hkid
 #of fo
