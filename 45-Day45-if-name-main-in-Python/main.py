@@ -1,1 +1,4 @@
-#yes
+import rijan
+rijan.welcome()
+
+
